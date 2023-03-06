@@ -1,2 +1,8 @@
 # Lotometro
-Reconhecimento de imagens com OpenCV para contagem de pessoas
+Reconhecimento de imagens utilizando python e a biblioteca OpenCV para realizar a contagem de pessoas
+
+## Bibliotecas utilizadas
+
+* TensorFlow
+* OpenCV
+* cvLib
